@@ -1,0 +1,16 @@
+per kit									total
+black (ground): 					 10 		210
+blue (movement buttons data): 		 4		84
+yellow (a, b, reset data): 		 3		63
+green (display data): 			 4		84
+red (speaker data and display vcc): 2		42
+
+total= 23 per kit
+21 kits x 23 wires per kit = 
+
+Tactile buttons					 7
+Speaker 							 1
+Pro Micro						 1
+SPI OLED Display 					 1
+Breadboard						 2
+USB Cables 						 1

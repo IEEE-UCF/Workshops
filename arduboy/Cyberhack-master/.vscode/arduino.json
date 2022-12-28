@@ -1,7 +1,0 @@
-{
-    "board": "arduboy-homemade:avr:8bitcadexlup",
-    "output": "../build",
-    "sketch": "Cyberhack/Cyberhack.ino",
-    "port": "/dev/tty.usbmodem14601",
-    "configuration": "core=arduboy-core,boot=cathy3k,contrast=normal"
-}

@@ -1,0 +1,1 @@
+In this workshop with ASME we redid the DC motor workshop from last year and updated the CAD model

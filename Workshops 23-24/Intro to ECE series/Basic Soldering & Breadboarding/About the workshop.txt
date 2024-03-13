@@ -1,0 +1,1 @@
+Students were taught about how breadboards work to assemble a basic flashlight circuit using the sparkfun soldering kit components. They then converted the breadboard circuit to the PCB that came with the soldering kit and were taught how to solder so they could assemble the kits

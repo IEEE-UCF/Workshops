@@ -1,0 +1,2 @@
+The audio equalizer workshop led students through creating their own passive filter audio equalizer with 3 filters to change the audio quality
+Students were also given a laser cut box made of wood for them to take home the equalizer

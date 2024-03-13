@@ -1,0 +1,1 @@
+Students were lead through some basic python programing to get them familiar with some of the basic commands so they knew enough about the syntax to work on their own projects

@@ -1,0 +1,1 @@
+This workshop was hosted in collaboration with Renasas to show off the GreenPak whichs functions as an analog FPGA. The workshop primarly showed off the software of the GreenPak which utalized a graphic interface to program the device 
